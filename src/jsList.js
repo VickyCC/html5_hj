@@ -1,0 +1,25 @@
+
+var jsList = [
+    "src/resource.js",
+    "src/Sound.js",
+    "src/GameConstants.js",
+    "src/logic/FoodManager.js",
+    "src/logic/ObstacleManager.js",
+    "src/ui/SoundButton.js",
+    "src/ui/GameSceneUI.js",
+    "src/ui/GameSceneTimeUI.js",
+    "src/ui/GameOverUI.js",
+    "src/ui/SucceedUI.js",
+    "src/ui/Times.js",
+    "src/elements/GameBackground.js",
+    "src/elements/Player.js",
+    "src/elements/Item.js",
+    "src/elements/Obstacle.js",
+    "src/scene/MenuScene.js",
+    "src/scene/AboutScene.js",
+    "src/scene/GameScene.js",
+    "src/scene/GameSceneTime.js",
+    "src/scene/Share.js",
+    "src/Game.js",
+
+]
